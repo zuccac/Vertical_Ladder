@@ -162,5 +162,5 @@ Questions about the code should be directed to:
 Claudio Zucca — `c.zucca@eib.org`
 
 The views expressed in the associated paper are those of the author
-and do not represent the views of the European Investment Bank or the
+and do not represent necessarily the views of the European Investment Bank or the
 Luxembourg School of Business.
