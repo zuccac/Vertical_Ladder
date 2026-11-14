@@ -1,0 +1,7 @@
+Law_09 H=130: long-horizon hiring 87.984% of no-AI, seniors44 87.673%; success True, at bound 0
+Law_09 H=160: long-horizon hiring 87.986% of no-AI, seniors44 87.678%; success True, at bound 0
+Law_09 H=200: long-horizon hiring 87.986% of no-AI, seniors44 87.678%; success True, at bound 0
+Law_09 start=usual: long-horizon hiring 87.984%, seniors44 87.673%; success True
+Law_09 start=zero: long-horizon hiring 87.983%, seniors44 87.672%; success True
+Law_09 start=half: long-horizon hiring 87.981%, seniors44 87.673%; success True
+Law_09 start=triple: long-horizon hiring 87.985%, seniors44 87.673%; success True

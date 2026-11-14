@@ -1,0 +1,7 @@
+IB H=130: long-horizon hiring 87.568% of no-AI, seniors44 84.962%; success True, at bound 0
+IB H=160: long-horizon hiring 87.568% of no-AI, seniors44 84.968%; success True, at bound 0
+IB H=200: long-horizon hiring 87.569% of no-AI, seniors44 84.968%; success True, at bound 0
+IB start=usual: long-horizon hiring 87.568%, seniors44 84.962%; success True
+IB start=zero: long-horizon hiring 87.568%, seniors44 84.962%; success True
+IB start=half: long-horizon hiring 87.568%, seniors44 84.962%; success True
+IB start=triple: long-horizon hiring 87.567%, seniors44 84.962%; success True
