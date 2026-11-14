@@ -72,3 +72,7 @@ recomputes from an empty cache; the results do not change. Library versions of t
 `versions_published_run.txt` (Python 3.13.18, NumPy 2.5.3, SciPy 1.18.1).
 
 `run_all.sh` runs `numcheck.py` for both sectors and then `numcheck_numbers.py`, which writes the bounds quoted in the numerics appendix. The logs of the published run are `numcheck_Law_09.log` and `numcheck_IB.log`.
+
+## Licence
+
+The code is released under the MIT licence (see `LICENSE`). Third-party data are not covered: the Eloundou et al. task labels must be downloaded from their source, and the Anthropic Economic Index shares entered in `exposure.py` are cited to their release.
